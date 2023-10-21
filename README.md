@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=macinek67&color=black)
+![](https://komarev.com/ghpvc/?username=macinek67&color=blue)
 
 ## I'm a 18 years old beginner programmer.
 ### - [Currently working on advertisement job system page](https://github.com/macinek67/system_ogloszeniowy)
